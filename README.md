@@ -2,7 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=40AEF0&height=300&section=header&text=Seong-Hyeon&fontSize=70" />
 </p>  
 
-## <div align="center"> 👋 안녕하세요 제 Github를 방문해주셔서 감사합니다 👋 </div>
+## <div align="center"> 👋 저의 Github를 방문해주셔서 감사합니다 👋 </div>
+#### <div align="center"> 안녕하세요 저는 풀스택 개발자를 목표로 공부를 하고 있는 로봇자동화학과 성 현입니다. </div>
+#### <div align="center"> 타입스크립트를 기반으로 프론트엔드와 백엔드 공부를 진행하고 있습니다. </div>
+#### <div align="center"> 잘 부탁드립니다. </div>
+   
 #### <div align="center"> 👋 My Stack 👋 </div>
 <div align="center"><img src="https://img.shields.io/badge/Html-E50914?style=flat-square&logo=Html5&logoColor=white"/> <img src="https://img.shields.io/badge/Css3-0078D7?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-004088?style=flat-square&logo=typescript&logoColor=white"/></div>    
 
