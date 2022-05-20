@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=40AEF0&height=300&section=header&text=Seong-Hyeon&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=40AEF0&height=300&section=header&text=I Love Typescript&fontSize=70" />
 </p>  
 
 ## <div align="center"> 👋 저의 Github를 방문해주셔서 감사합니다 👋 </div>
-#### <div align="center"> 안녕하세요 저는 풀스택 개발자를 목표로 공부를 하고 있는 로봇자동화학과 성 현입니다. </div>
+#### <div align="center"> 안녕하세요 저는 풀스택 개발자를 목표로 공부를 하고 있는 로봇자동화공학과 학생입니다. </div>
 #### <div align="center"> 타입스크립트를 기반으로 프론트엔드와 백엔드 공부를 진행하고 있습니다. </div>
 #### <div align="center"> 잘 부탁드립니다. </div>
    
