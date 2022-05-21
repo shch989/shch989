@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=40AEF0&height=220&section=header&text=I Love Typescript&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=40AEF0&height=220&section=header&text=I Love Typescript!!!&fontSize=70" />
 </p>  
 
 ## <div align="center"> 👋 저의 Github를 방문해주셔서 감사합니다 👋 </div>
@@ -18,7 +18,16 @@
 
 #### <div align="center"> 👋 DevOps 👋 </div>
 <div align="center"><img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=flat-square&logo=AmazonAWS&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></div>
+  
+## <div align="center">👩‍💻 My Github Stats 👩‍💻</div>
+<div align="center">
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shch989&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)       
+</div>  
+  
+## <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=40AEF0&height=200&section=header&text=Thank you!&fontSize=70" />
+</p> 
 <!--
 **shch989/shch989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
