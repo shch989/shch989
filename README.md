@@ -13,11 +13,8 @@
 #### <div align="center"> 🌈 Front end 🌈 </div>
 <div align="center"><img src="https://img.shields.io/badge/React-40AEF0?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
 
-#### <div align="center"> 👩‍💻 Back end 👩‍💻 </div>
+#### <div align="center"> 💻 Back end 💻 </div>
 <div align="center"><img src="https://img.shields.io/badge/Node.js-006600?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Nest.js-000000?style=flat-square&logo=nestjs&logoColor=red"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=black"/> <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/></div>  
-
-#### <div align="center"> 💻 DevOps 💻 </div>
-<div align="center"><img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=flat-square&logo=AmazonAWS&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></div>
   
 ## <div align="center">⚡ My Github Stats ⚡</div>
 <div align="center">
