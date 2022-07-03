@@ -7,7 +7,7 @@
 #### <div align="center"> 타입스크립트를 기반으로 프론트엔드와 백엔드 프로젝트를 진행하고 있습니다. </div>
 #### <div align="center"> 잘 부탁드립니다~! </div>
    
-#### <div align="center"> 📚 Tech Stack 📚 </div>
+#### <div align="center"> 📚 Teach Stack 📚 </div>
 <div align="center"><img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-004088?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> </div>    
 
 #### <div align="center"> 🌈 Front end 🌈 </div>
