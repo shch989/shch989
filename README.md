@@ -11,7 +11,7 @@
 <div align="center"><img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-004088?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> </div>    
 
 #### <div align="center"> 🌈 Front end 🌈 </div>
-<div align="center"><img src="https://img.shields.io/badge/React-40AEF0?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Vue 3-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white"/> </div> 
+<div align="center"><img src="https://img.shields.io/badge/React-40AEF0?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></div> 
 
 #### <div align="center"> 💻 Back end 💻 </div>
 <div align="center"><img src="https://img.shields.io/badge/Node.js-006600?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Nest.js-000000?style=flat-square&logo=nestjs&logoColor=red"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> </div>  
