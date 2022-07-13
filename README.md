@@ -14,7 +14,7 @@
 <div align="center"><img src="https://img.shields.io/badge/React-40AEF0?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></div> 
 
 #### <div align="center"> 💻 Back end 💻 </div>
-<div align="center"><img src="https://img.shields.io/badge/Node.js-006600?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Nest.js-000000?style=flat-square&logo=nestjs&logoColor=red"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> </div>  
+<div align="center"><img src="https://img.shields.io/badge/Node.js-006600?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/Nest.js-000000?style=flat-square&logo=nestjs&logoColor=red"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> </div>  
   
 ## <div align="center">⚡ My Github Stats ⚡</div>
 <div align="center">
