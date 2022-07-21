@@ -20,9 +20,8 @@
 <div align="center"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> </div> 
   
 ## <div align="center">⚡ My Github Stats ⚡</div>
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piorosen&layout=compact&hide_border=true)](https://github.com/Piorosen)  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shch989&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)       
+<div align="center"> 
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=shch989&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a> <a href="https://github.com/shch989"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shch989&layout=compact&theme=nord&hide_border=true" /></a>     
 </div>  
   
 ## <p align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&color=40AEF0&height=200&section=header&text=✨ Thank you! ✨&fontSize=70" /></p> 
