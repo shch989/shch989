@@ -21,7 +21,7 @@
   
 ## <div align="center">⚡ My Github Stats ⚡</div>
 <div align="center">
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piorosen&layout=compact&hide_border=true)](https://github.com/Piorosen)  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shch989&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)       
 </div>  
   
