@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=40AEF0&height=220&section=header&text=Hello Typescript!&Size=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=40AEF0&height=220&section=header&text=I Love React and Node.js&Size=80" />
 </p>  
 
 ## <div align="center"> 👋 저의 Github를 방문해주셔서 감사합니다! 👋 </div>
