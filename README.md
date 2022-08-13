@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=40AEF0&height=220&section=header&text=I Love React and Node.js!!&Size=80" />
-</p>  
-
-## <div align="center"> 👋 저의 Github를 방문해주셔서 감사합니다! 👋 </div>
+# <div align="center"> 👋 저의 Github를 방문해주셔서 감사합니다! 👋 </div>
 #### <div align="center"> 안녕하세요 저는 풀스택 개발자를 목표로 공부를 하고 있는 로봇자동화공학과 학생입니다. </div>
 #### <div align="center"> 자바스크립트와 타입스크립트를 기반으로 프론트엔드와 백엔드 프로젝트를 진행하고 있습니다. </div>
 #### <div align="center"> 잘 부탁드립니다~! </div>
@@ -24,7 +20,7 @@
 <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=shch989&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a> <a href="https://github.com/shch989"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WonDongGyun&layout=compact&theme=nord&hide_border=true" /></a>     
 </div>  
   
-## <p align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&color=40AEF0&height=200&section=header&text=✨ Thank you! ✨&fontSize=70" /></p> 
+# <div align="center">✨ Thank you! ✨</div> 
 <!--
 **shch989/shch989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
