@@ -20,7 +20,7 @@
   
 ## <div align="center">⚡ My Github Stats ⚡</div>
 <div align="center"> 
-<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=shch989&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a> <a href="https://github.com/shch989"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WonDongGyun&layout=compact&theme=nord&hide_border=true" /></a>     
+<a href="https://github.com/shch989"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=shch989&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a> <a href="https://github.com/shch989"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shch989&layout=compact&theme=nord&hide_border=true" /></a>     
 </div>  
   
 # <div align="center">✨ Thank you! ✨</div> 
