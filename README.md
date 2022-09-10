@@ -1,6 +1,6 @@
 # <div align="center"> 👋 저의 Github를 방문해주셔서 감사합니다! 👋 </div>
 #### <div align="center"> 안녕하세요 저는 풀스택 개발자를 목표로 공부를 하고 있는 로봇자동화공학과 학생입니다. </div>
-#### <div align="center"> 백엔드 언어는 타입스크립트를 사용 중이며 최근에는 블록체인 개발에 관심히 생겨 블록체인 기술을 학습 중입니다. </div>
+#### <div align="center"> 백엔드 언어는 타입스크립트를 사용 중이며 최근에는 Web3.0 기술에 관심히 생겨 블록체인 기술을 학습 중입니다. </div>
 #### <div align="center"> 잘 부탁드립니다~! </div>
    
 #### <div align="center"> 📚 프로그래밍 언어 📚 </div>
