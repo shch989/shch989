@@ -1,6 +1,7 @@
 # <div align="center"> 👋 저의 Github를 방문해주셔서 감사합니다!! 👋 </div>
 #### <div align="center"> 안녕하세요 저는 풀스택 개발자를 목표로 공부를 하고 있는 로봇자동화공학과 학생입니다. </div>
-#### <div align="center"> React와 Next.js로 클라이언트를 개발 후 Express와 Nest.js로 백엔드를 공부 중 입니다. </div>
+#### <div align="center"> React와 Express로 개발을 진행 중입니다. </div>
+#### <div align="center"> 이후 Next.js와 Nest.js로 개발을 진행할 계획입니다. </div>
 #### <div align="center"> 잘 부탁드립니다~! </div>
    
 #### <div align="center"> 📚 프로그래밍 언어 📚 </div>
