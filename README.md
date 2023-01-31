@@ -12,6 +12,9 @@
 #### <div align="center"> 🌈 Other Skill 🌈 </div>
 <div align="center"> <img src="https://img.shields.io/badge/React Native-4934BF?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white"/>
   
+  #### <div align="center"> 🤔 CI / CD 🤔 </div>
+  <div align="center"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/> 
+    
 ## <div align="center">⚡ My Github Stats ⚡</div>
 <div align="center"> 
 <a href="https://github.com/shch989"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=shch989&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a> <a href="https://github.com/shch989"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shch989&layout=compact&theme=nord&hide_border=true" /></a>     
