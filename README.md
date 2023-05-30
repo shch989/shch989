@@ -1,6 +1,7 @@
 # <div align="center"> 👋 저의 Github를 방문해주셔서 감사합니다!!! 👋 </div>
-#### <div align="center"> 안녕하세요 저는 웹 풀스택 개발자를 목표로 하고 있는 로봇자동화공학과 학생입니다. </div>
-#### <div align="center"> React와 NestJS 개발을 진행 중입니다. </div>
+#### <div align="center"> 안녕하세요 저는 풀스택 개발자를 목표로 하고 있는 로봇자동화공학과 학생입니다. </div>
+#### <div align="center"> 블록체인, IoT, AI, 메타버스와 같은 4차 산업혁명의 주요 기술들과 협업하는 것을 좋아합니다. </div>
+#### <div align="center"> 주로 React와 NestJS로 개발을 진행 중입니다. </div>
 #### <div align="center"> 잘 부탁드립니다~! </div>
    
 #### <div align="center"> 📚 Programing Language 📚 </div>
