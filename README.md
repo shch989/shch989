@@ -19,7 +19,10 @@
 #### <div align="center"> 🚀 Dev-Ops Skill 🚀 </div>
 <div align="center"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/>
     
-## <div align="center">⚡ My Github Stats ⚡</div>
+#### <div align="center"> 🚀 Other Skill 🚀 </div>
+<div align="center"> <img src="https://img.shields.io/badge/Raspberrypi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/> <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAi-5C3EE8?style=flat-square&logo=openai&logoColor=white"/>
+    
+## <div align="center">🤔 My Github Stats 🤔</div>
 <div align="center"> 
 <img align="center" style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shch989&layout=compact&theme=nord&hide_border=true" /></a>     
 </div>  
