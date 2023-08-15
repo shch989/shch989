@@ -1,7 +1,7 @@
 # <div align="center"> 👋 저의 Github를 방문해주셔서 감사합니다!! 👋 </div>
 #### <div align="center"> 안녕하세요 저는 풀스택 개발자를 목표로 하고 있는 로봇자동화공학과 학생입니다. </div>
 #### <div align="center"> 블록체인, IoT, AI, 메타버스와 같은 4차 산업혁명의 주요 기술들과 협업하는 것을 좋아합니다. </div>
-#### <div align="center"> 주로 Javascript와 Typescript로 개발을 진행하고 있습니다. </div>
+#### <div align="center"> 주로 NodeJS와 Go로 개발을 진행하고 있습니다. </div>
    
 #### <div align="center"> 📚 Programing Language 📚 </div>
 <div align="center"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white"/> </div>    
