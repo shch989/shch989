@@ -4,7 +4,7 @@
 #### <div align="center"> 주로 NodeJS와 Go로 개발을 진행하고 있습니다. </div>
    
 #### <div align="center"> 📚 Programing Language 📚 </div>
-<div align="center"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/> </div>    
+<div align="center"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/> </div>    
 
 #### <div align="center"> 🌈 Front-End Skill 🌈 </div>
 <div align="center"> <img src="https://img.shields.io/badge/React-2599ED?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
