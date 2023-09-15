@@ -16,7 +16,7 @@
 <div align="center"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 
 #### <div align="center"> ⛓️ Dapp Skill ⛓️ </div>
-<div align="center"> <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white"/> <img src="https://img.shields.io/badge/Geth-00ADD8?style=flat-square&logo=ethereum&logoColor=white"/>
+<div align="center"> <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white"/>
     
 ## <div align="center">🤔 My Github Stats 🤔</div>
 <div align="center"> 
