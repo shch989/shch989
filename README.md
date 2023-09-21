@@ -22,12 +22,13 @@
 <div align="center"> <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white"/>
 <br/><br/>  
 
-<h3 align="center">🤔 My Github Stats 🤔</h3>
+<h2 align="center">🤔 My Github Stats 🤔</h2>
 <div align="center"> 
 <img align="center" style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shch989&layout=compact&theme=nord&hide_border=true" /></a>     
 </h3>  
+<br/><br/>
   
-# <h2 align="center">✨ Thank you! ✨</h2>
+# <b style="font-size: 36px;" align="center">✨ Thank you! ✨</b>
 
 <!--
 **shch989/shch989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
