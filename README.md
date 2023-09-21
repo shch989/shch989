@@ -27,7 +27,7 @@
 <img align="center" style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shch989&layout=compact&theme=nord&hide_border=true" /></a>     
 </h3>  
   
-# <h3 align="center">✨ Thank you! ✨</h3>
+# <h2 align="center">✨ Thank you! ✨</h2>
 
 <!--
 **shch989/shch989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
