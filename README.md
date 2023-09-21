@@ -3,8 +3,8 @@
 #### <div align="center"> 블록체인과 같은 4차 산업혁명의 주요 기술들과 협업하는 것을 좋아합니다. </div>
 #### <div align="center"> 주로 NodeJS와 Go로 개발을 진행하고 있습니다. </div>
    
-#### <div align="center"> 📚 Programing Language 📚 </div>
-<div align="center"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/> </div>    
+#### <div align="center"> 📚 Main Programing Skill 📚 </div>
+<div align="center"> <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/> </div>    
 
 #### <div align="center"> 🌈 FrontEnd Skill 🌈 </div>
 <div align="center"> <img src="https://img.shields.io/badge/React-2599ED?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
