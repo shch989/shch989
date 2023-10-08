@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">👋 저의 Github를 방문해주셔서 감사합니다!!! 👋</h1>
-  <b align="center">안녕하세요 저는 블록체인 개발자를 목표로 하고 있는 로봇자동화공학과 학생입니다.</b><br/><br/> 
+  <b align="center">안녕하세요 저는 블록체인 개발자를 목표로 하고 있는 로봇자동화공학과 재학생입니다.</b><br/><br/> 
   <b align="center">블록체인과 같은 4차 산업혁명의 주요 기술들과 협업하는 것을 좋아합니다.</b><br/><br/> 
   <b align="center">주로 NodeJS와 Go로 개발을 진행하고 있습니다.</b><br/> 
 </div>
