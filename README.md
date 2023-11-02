@@ -19,7 +19,7 @@
 <div align="center"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 
 <h3 align="center"> ⛓️ Smart-Contract Skill ⛓️ </h3>
-<div align="center">  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/> <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white"/>
+<div align="center"> <img src="https://img.shields.io/badge/Bitcoin-525252?style=flat-square&logo=bitcoin&logoColor=white"/> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/> <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white"/>
 <br/><br/>  
 
 <h1 align="center">🤔 My Github Stats 🤔</h1>
