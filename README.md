@@ -22,7 +22,7 @@
 <div align="center"> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   
 <h3 align="center"> ⛓️ Smart-Contract Skill ⛓️ </h3>
-<div align="center"> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
+<div align="center"> <img src="https://img.shields.io/badge/Hyperledger-3C3C3D?style=flat-square&logo=hyperledger&logoColor=white"/>
 <br/><br/>  
 
 <h1 align="center">🤔 My Github Stats 🤔</h1>
