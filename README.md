@@ -2,7 +2,7 @@
   <h1 align="center">👋 저의 Github를 방문해주셔서 감사합니다! 👋</h1>
   <b align="center">안녕하세요 저는 인공지능 그랜드 ICT 연구센터에서 석사과정을 이수 중 입니다.</b><br/><br/> 
   <b align="center">블록체인과 인공지능 분야를 연구 중입니다.</b><br/><br/> 
-  <b align="center">주로 Ethereum과 Pytorch로 개발을 진행하고 있습니다.</b><br/> 
+  <b align="center">주로 Hyperledger과 Pytorch로 개발을 진행하고 있습니다.</b><br/> 
 </div>
 <br/> 
 
