@@ -18,7 +18,7 @@
 <h3 align="center"> 🚀 Dev-Ops Skill 🚀 </h3>
 <div align="center"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 
-<h3 align="center"> ✨ Other Skill ✨ </h3>
+<h3 align="center"> ✨ BC·AI Skill ✨ </h3>
 <div align="center"> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 <br/><br/>  
 
