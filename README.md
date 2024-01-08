@@ -10,7 +10,7 @@
 <div align="center"> <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 <h3 align="center"> 🌈 Front-End Skill 🌈 </h3>
-<div align="center"> <img src="https://img.shields.io/badge/React-2599ED?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/React Native-4B2DB2?style=flat-square&logo=react&logoColor=white"/>
+<div align="center"> <img src="https://img.shields.io/badge/React-2599ED?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/React Native-5721F7?style=flat-square&logo=react&logoColor=white"/>
     
 <h3 align="center"> 💻 Back-End Skill 💻 </h3>
 <div align="center"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
