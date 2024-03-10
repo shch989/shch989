@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">👋 저의 Github를 방문해주셔서 감사합니다! 👋</h1>
-  <b align="center">안녕하세요 저는 인공지능 그랜드 ICT 연구센터 석사 조성현입니다.</b><br/><br/> 
+  <b align="center">안녕하세요 저는 인공지능 그랜드 ICT 연구센터 석사 연구원 조성현입니다.</b><br/><br/> 
 </div>
 
 <h3 align="center"> 📚 Main Programing Skill 📚 </h3>
