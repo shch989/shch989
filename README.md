@@ -3,7 +3,7 @@
   <b align="center">안녕하세요 저는 인공지능 그랜드 ICT 연구센터 석사 연구원 조성현입니다.</b><br/><br/> 
 </div>
 
-<h3 align="center"> 📚 Main Programing Skill 📚 </h3>
+<h3 align="center"> 📚 Main Development Skill 📚 </h3>
 <div align="center"> <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
 
 <h1 align="center">🤔 My Github Stats 🤔</h1>
