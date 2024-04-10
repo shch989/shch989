@@ -4,7 +4,7 @@
 </div>
 
 <h3 align="center"> 📚 Main Development Skill 📚 </h3>
-<div align="center"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white"/>
+<div align="center"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white"/>
 
 <h1 align="center">🤔 My Github Stats 🤔</h1>
 <div align="center"> 
