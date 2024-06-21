@@ -11,12 +11,10 @@
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+      </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
@@ -88,10 +86,12 @@
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-      </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
       </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="kafka" />
@@ -112,7 +112,7 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="sklearn" />
       <br>Sklearn
-              <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="opencv" />
       <br>OpenCV
     </td>
