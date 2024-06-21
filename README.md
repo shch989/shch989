@@ -106,8 +106,8 @@
       <br>Redis
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="fastapi" />
-      <br>FastAPI
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="sklearn" />
