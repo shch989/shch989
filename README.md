@@ -141,7 +141,7 @@
 </p>
 
 <p align="center">
-<a href="https://gist.github.com/shch989"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="shch989 :: Visitor's Count" /></a>
+<a href="https://gist.github.com/shch989"><img src="https://profile-counter.glitch.me/{shch989}/count.svg" alt="shch989 :: Visitor's Count" /></a>
 </p>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
