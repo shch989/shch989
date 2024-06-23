@@ -23,10 +23,6 @@
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
-      <br>Redux
-    </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
@@ -34,6 +30,10 @@
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nestjs" alt="icon" width="65" height="65" />
       <br>NestJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
@@ -84,13 +84,9 @@
 
   </tr>
  <tr>
-       <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="jenkins" />
       <br>Jenkins
-    </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
     </td>
      <td align="center" width="96">
       <a href="#macropower-tech">
@@ -104,8 +100,8 @@
       <br>Kafka
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="pytorch" />
-      <br>Pytorch
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="pytorch" />
+      <br>TensorFlow
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
@@ -121,6 +117,10 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="solidity" />
       <br>Solidity
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="65" height="65" />
+      <br>Linux
     </td>
  </tr>
 </table>
