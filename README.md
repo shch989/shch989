@@ -74,8 +74,8 @@
       <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="css" />
-      <br>Bootstrap
+        <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" alt="css" />
+      <br>Elasticsearch
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48" alt="scss" />
