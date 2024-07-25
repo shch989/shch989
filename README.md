@@ -100,8 +100,8 @@
       <br>Kafka
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="pytorch" />
-      <br>Pytorch
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="tensorflow" />
+      <br>Tensorflow
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
