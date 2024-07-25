@@ -101,7 +101,7 @@
     </td>
             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="tensorflow" />
-      <br>Tensorflow
+      <br>TensorFlow
     </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
