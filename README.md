@@ -109,7 +109,7 @@
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="fastapi" />
-      <br>fastapi
+      <br>FastAPI
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="sklearn" />
