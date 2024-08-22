@@ -46,27 +46,28 @@
 
   </tr>
   <tr>
-        <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
-      <br>Kubernetes
-    </td>
   <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
+    <br>Kubernetes
+  </td>
+  <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
       <br>Redux
+  </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
     </td>
-    <td align="center" width="96"> 
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJS" />
-      <br>NextJS
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
+        <br>GraphQL
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="go" />
+      <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="go" />
       <br>Go
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
     <td align="center" width="96">
