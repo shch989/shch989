@@ -66,13 +66,13 @@
       <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="go" />
       <br>Go
     </td>
-    <td align="center"  width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+        <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="spring" />
+      <br>Spring
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" alt="css" />
