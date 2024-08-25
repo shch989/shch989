@@ -116,8 +116,8 @@
         <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="sklearn" />
       <br>Sklearn
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="solidity" />
-      <br>Solidity
+        <img src="https://socket.io/images/logo.svg" width="48" height="48" alt="socket" />
+      <br>socket.io
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="65" height="65" />
