@@ -117,7 +117,7 @@
       <br>Sklearn
     <td align="center" width="96">
         <img src="https://socket.io/images/logo.svg" width="48" height="48" alt="socket" />
-      <br>socket.io
+      <br>Socket.io
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="65" height="65" />
