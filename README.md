@@ -108,6 +108,9 @@
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
       <br>Redis
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="sklearn" />
+      <br>Sklearn
      <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
@@ -115,11 +118,8 @@
       <br>Django
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="sklearn" />
-      <br>Sklearn
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="solidity" />
-      <br>Solidity
+        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="fastapi" />
+      <br>FastAPI
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="65" height="65" />
