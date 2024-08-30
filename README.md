@@ -95,12 +95,16 @@
       </a>
       <br>Python
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="fastapi" />
+      <br>FastAPI
+    </td>
       </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="kafka" />
       <br>Kafka
     </td>
-            <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="tensorflow" />
       <br>TensorFlow
     </td>
@@ -116,10 +120,6 @@
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Django
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="fastapi" />
-      <br>FastAPI
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="65" height="65" />
