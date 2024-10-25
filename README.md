@@ -59,35 +59,35 @@
       <br>Github
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
-        <br>GraphQL
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" />
+      <br>NextJS
     </td>
-    <td align="center"  width="96">
-      <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="go" />
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+      <br>REST API
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
+      <br>Terraform
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="go" />
       <br>Go
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-        <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="spring" />
-      <br>Spring
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" alt="Elasticsearch" />
       <br>Elasticsearch
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48" alt="scss" />
-      <br>Scss
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
     </td>
 
   </tr>
  <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="jenkins" />
-      <br>Jenkins
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" />
+      <br>Figma
     </td>
      <td align="center" width="96">
       <a href="#macropower-tech">
@@ -95,35 +95,33 @@
       </a>
       <br>Python
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="fastapi" />
-      <br>FastAPI
-    </td>
-      </td>
-    <td align="center" width="96">
+     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="kafka" />
       <br>Kafka
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="tensorflow" />
-      <br>TensorFlow
-    </td>
-              <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
       <br>Redis
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="sklearn" />
-      <br>Sklearn
-     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Django
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="48" height="65" />
+      <br>Webpack
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="65" height="65" />
-      <br>Linux
+        <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="prisma" />
+      <br>Prisma
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="prometheus" />
+      <br>Prometheus
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="rabbitmq" />
+      <br>Rabbitmq
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" />
+      <br>Jest
     </td>
  </tr>
 </table>
