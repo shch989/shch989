@@ -59,8 +59,8 @@
       <br>Github
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" />
-      <br>NextJS
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="tensorflow" />
+      <br>TensorFlow
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
@@ -86,8 +86,8 @@
   </tr>
  <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" />
-      <br>Figma
+        <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="sklearn" />
+      <br>Sklearn
     </td>
      <td align="center" width="96">
       <a href="#macropower-tech">
